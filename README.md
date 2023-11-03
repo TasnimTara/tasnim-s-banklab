@@ -5,7 +5,7 @@ Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisc
 Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to calculate the average, standard deviation, and the median for data sets for the Banking Objects of Portugal. The team is learning Python code and trying to validate the code used. Also, OOP knowledge and documenation-reading skills are used to problemshoot and 
 
 ### Methods Used
 * Inferential Statistics
@@ -25,4 +25,3 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
