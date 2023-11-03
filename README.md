@@ -5,7 +5,7 @@ Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisc
 Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is to calculate the average, standard deviation, and the median for data sets for the Banking Objects of Portugal. The team is learning Python code and trying to validate the code used. Also, OOP knowledge and documenation-reading skills are used to problemshoot and 
+The purpose of this project is to calculate the average, standard deviation, and the median for data sets for the Banking Objects of Portugal. The team is learning Python code and trying to validate the code used. Also, OOP knowledge and documenation-reading skills are used to problemshoot and analyze the data sets. 
 
 ### Methods Used
 * Inferential Statistics
@@ -25,3 +25,4 @@ The purpose of this project is to calculate the average, standard deviation, and
 * etc. 
 
 ## Project Description
+
